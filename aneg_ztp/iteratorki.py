@@ -106,7 +106,7 @@ def main():
     print(list(zad3))
     for i in zad3:
         print(i)
-    zad4 = odd_first("ziobrotykurwojebana")
+    zad4 = odd_first("ziobroprzestan")
     print(list(zad4))
     zad5 = chain("123", "3214", "21341")
     print(list(zad5))
