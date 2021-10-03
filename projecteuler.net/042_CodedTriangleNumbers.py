@@ -16,18 +16,18 @@ def main():
             sum += ord(letter) - 64
         if sum > max:
             max = sum
-    triangle_numebrs = []
+    triangle_numbers = []
     x, n = 1, 1
     while x <= max:
         x = triangle_n(n)
-        triangle_numebrs.append(x)
+        triangle_numbers.append(x)
         n += 1
     counter = 0
     for word in b:
         sum = 0
         for letter in word:
             sum += ord(letter) - 64
-        if sum* 1.0 in triangle_numebrs:
+        if sum* 1.0 in triangle_numbers:
             counter +=1
     print(counter)
 
