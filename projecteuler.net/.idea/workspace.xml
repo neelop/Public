@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5875835-7909-474b-a37d-5f19ebc493f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/042_CodedTriangleNumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/eulerMania.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/eulerMania.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/042_CodedTriangleNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/042_CodedTriangleNumbers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
