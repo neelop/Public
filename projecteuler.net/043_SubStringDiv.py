@@ -9,7 +9,7 @@ def main():
         i = "".join(i)
         if i[0] != "0":
             marker = 0
-            
+
             if int(i[1] + i[2] + i[3]) % 2 != 0:
                 marker += 1
             elif int(i[2] + i[3] + i[4]) % 3 != 0:

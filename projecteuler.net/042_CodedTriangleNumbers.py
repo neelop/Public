@@ -33,8 +33,7 @@ def main():
 
 def main2():
     f = open("p042_words.txt", "r")
-    for x in f:
-        b = x.split('","')
+    b = f.read().split('","')
     b[0] = b[0][1:]
     b[-1] = b[-1][:-1]
 

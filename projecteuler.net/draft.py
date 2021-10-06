@@ -53,10 +53,6 @@ print(oczka)
 
 
 
-print([z for z in range(1,2)])
-
-
-
 
 
 
