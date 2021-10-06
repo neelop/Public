@@ -1,7 +1,8 @@
 from toolsy_sroolsy import factorization
-#TODO slow
 
-i = 644
+# TODO slow
+
+i = 2 * 3 * 5 * 7
 marker = True
 
 while marker:
@@ -21,7 +22,7 @@ while marker:
 
         for j in range(1, 4):
             if len(set(factorization(i + j))) == 4:
-                numbers.append(i+j)
+                numbers.append(i + j)
                 if len(numbers) == 4:
                     print(sorted(numbers))
                     marker = False
